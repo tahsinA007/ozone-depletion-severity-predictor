@@ -5,6 +5,10 @@ model behind the UI you designed, so every number on screen (accuracy,
 confusion matrix, feature importance, probabilities) comes from the real
 trained model — not the mockup's placeholder numbers.
 
+## 🚀 Live Demo
+
+🔗 **[Launch the Live App](https://ozone-depletion-severity-predictor.streamlit.app/)**
+
 ## Files
 
 | File | Purpose |
