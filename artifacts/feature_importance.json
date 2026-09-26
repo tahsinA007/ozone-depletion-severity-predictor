@@ -1,0 +1,62 @@
+[
+  [
+    "Polar Stratospheric Cloud Index",
+    1.567762258967784
+  ],
+  [
+    "CFC-11 Concentration (Parts Per Trillion)",
+    1.399259767211645
+  ],
+  [
+    "Chlorine Monoxide Concentration (Parts Per Billion)",
+    1.3855287761436017
+  ],
+  [
+    "CFC-12 Concentration (Parts Per Trillion)",
+    1.2576109922443297
+  ],
+  [
+    "Bromine Monoxide Concentration (Parts Per Trillion)",
+    1.118067942322602
+  ],
+  [
+    "UV Index",
+    0.9102943139039837
+  ],
+  [
+    "Stratospheric Temperature (Celsius)",
+    0.6866900447843207
+  ],
+  [
+    "Wind Speed (Kilometers Per Hour)",
+    0.676556809788453
+  ],
+  [
+    "Latitude (Degrees)",
+    0.6373075619750216
+  ],
+  [
+    "Methane Concentration (Parts Per Billion)",
+    0.5546697401074873
+  ],
+  [
+    "Nitrous Oxide Concentration (Parts Per Billion)",
+    0.30241575954048466
+  ],
+  [
+    "Hemisphere_Encoded",
+    0.29230198671486457
+  ],
+  [
+    "Region Type_Encoded",
+    0.21510257339137137
+  ],
+  [
+    "Monitoring Station Type_Encoded",
+    0.09742420749757641
+  ],
+  [
+    "Season_Encoded",
+    0.04495996332836335
+  ]
+]

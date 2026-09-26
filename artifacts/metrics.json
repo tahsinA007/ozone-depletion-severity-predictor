@@ -1,0 +1,60 @@
+{
+  "perceptron": {
+    "test_accuracy": 0.935,
+    "train_accuracy": 0.9425,
+    "precision_macro": 0.9391461213114839,
+    "recall_macro": 0.9477834612105712,
+    "f1_macro": 0.9426800030300972,
+    "confusion_matrix": [
+      [
+        83,
+        9,
+        0
+      ],
+      [
+        3,
+        64,
+        1
+      ],
+      [
+        0,
+        0,
+        40
+      ]
+    ]
+  },
+  "softmax": {
+    "test_accuracy": 0.965,
+    "train_accuracy": 0.985,
+    "precision_macro": 0.9696873175134044,
+    "recall_macro": 0.9708013640238704,
+    "f1_macro": 0.9702179144562774,
+    "confusion_matrix": [
+      [
+        88,
+        4,
+        0
+      ],
+      [
+        3,
+        65,
+        0
+      ],
+      [
+        0,
+        0,
+        40
+      ]
+    ]
+  },
+  "class_order": [
+    1,
+    2,
+    3
+  ],
+  "class_labels": [
+    "Low",
+    "Moderate",
+    "Severe"
+  ]
+}
