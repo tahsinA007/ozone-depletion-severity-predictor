@@ -1,7 +1,7 @@
 # Ozone Depletion Severity Predictor — Streamlit App
 
-Deploys your notebook's Softmax Regression (multinomial logistic regression)
-model behind the UI you designed, so every number on screen (accuracy,
+Deploys notebook's Softmax Regression (multinomial logistic regression)
+model behind the UI which is designed, so every number on screen (accuracy,
 confusion matrix, feature importance, probabilities) comes from the real
 trained model — not the mockup's placeholder numbers.
 
